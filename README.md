@@ -53,6 +53,3 @@ python main.py --left data/left.png --right data/right.png --method cosine --win
 
 ## 📊 Kết quả
 Kết quả sẽ được lưu trong thư mục `results/` dưới dạng ảnh xám (grayscale) và ảnh màu (color map) để dễ dàng quan sát.
-
----
-# Stereo-Depth-Reconstruction
